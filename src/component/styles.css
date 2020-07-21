@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.pa3 .br2{
+ float:right;
+}
+.add-input{
+  width:20px;
+}
+.add-input:first-child {
+  width:100%;
+}
+.stripe-dark:last-of-type{
+opacity:0;
+}
